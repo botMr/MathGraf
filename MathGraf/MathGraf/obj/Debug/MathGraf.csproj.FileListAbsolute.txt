@@ -1,0 +1,11 @@
+C:\Users\ПК\source\repos\MathGraf\MathGraf\bin\Debug\MathGraf.exe.config
+C:\Users\ПК\source\repos\MathGraf\MathGraf\bin\Debug\MathGraf.exe
+C:\Users\ПК\source\repos\MathGraf\MathGraf\bin\Debug\MathGraf.pdb
+C:\Users\ПК\source\repos\MathGraf\MathGraf\obj\Debug\MathGraf.csproj.AssemblyReference.cache
+C:\Users\ПК\source\repos\MathGraf\MathGraf\obj\Debug\MathGraf.csproj.SuggestedBindingRedirects.cache
+C:\Users\ПК\source\repos\MathGraf\MathGraf\obj\Debug\MathGraf.Form1.resources
+C:\Users\ПК\source\repos\MathGraf\MathGraf\obj\Debug\MathGraf.Properties.Resources.resources
+C:\Users\ПК\source\repos\MathGraf\MathGraf\obj\Debug\MathGraf.csproj.GenerateResource.cache
+C:\Users\ПК\source\repos\MathGraf\MathGraf\obj\Debug\MathGraf.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\MathGraf\MathGraf\obj\Debug\MathGraf.exe
+C:\Users\ПК\source\repos\MathGraf\MathGraf\obj\Debug\MathGraf.pdb
